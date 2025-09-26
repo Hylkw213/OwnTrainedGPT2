@@ -1,0 +1,1 @@
+Me following along training gpt-2 from scratch
